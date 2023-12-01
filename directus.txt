@@ -1,0 +1,5 @@
+KEY=my_key
+SECRET=my_secret
+ADMIN_EMAIL=daniel@test.com
+ADMIN_PASSWORD=12345
+CORS_ENABLED=true
